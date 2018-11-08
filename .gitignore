@@ -9,8 +9,8 @@
 # production
 /build
 
-#functions
-/functions
+# production
+/functions/node_modules
 
 # misc
 .DS_Store
